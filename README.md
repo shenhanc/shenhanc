@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shenhanc
+- 🌱 I’m currently learning golang.
+- 💞️ I’m looking to collaborate on crypto-currency related projects.
